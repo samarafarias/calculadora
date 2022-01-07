@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora IMC</title>
+</head>
+<body>
+
+    <main>
+
+        <div class="container">
+
+            <form action="#" id="formulario">
+                <h1>Calculadora IMC</h1>
+                <label for="altura">Altura (Metros)</label>
+                <input type="number" id="altura" placeholder="Por exemplo: 1,70" name="altura" required>
+
+                <label for="peso">Peso (Kg)</label>
+                <input type="number" id="peso" placeholder="Por exemplo: 65" name="peso" required>
+
+                <button id="calcular">Calcular</button>
+
+                <div id="resultado"></div>
+            </form>
+
+        </div>
+
+    </main>
+    <script src="./main.js"></script>
+</body>
+</html>
