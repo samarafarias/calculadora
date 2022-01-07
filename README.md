@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-IMC é a sigla para Índice de Massa Corporal, que é um cálculo que serve para avaliar se a pessoa está dentro do seu peso ideal em relação à altura.
+IMC é a sigla para Índice de Massa Corporal, então calcular o IMC que serve para avaliar se a pessoa está dentro do seu peso ideal em relação à altura.
 
 # Projeto 
 
