@@ -4,5 +4,6 @@ IMC é a sigla para Índice de Massa Corporal, que é um cálculo que serve para
 
 # Projeto 
 
-Projeto simples e funcional, utilizando HTML, CSS e JS.
+Projeto simples e funcional, foi utilizando : HTML, CSS e JS.
+
 Validação e manipulação de DOM.
